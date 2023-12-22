@@ -5,19 +5,19 @@
 
 ## 1️⃣ REGISTER
 
-<img src=https://i.ibb.co/1zXK4GW/imagen-2023-12-22-150544864.png 
+<img src="https://i.ibb.co/1zXK4GW/imagen-2023-12-22-150544864.png" width="75%;" />
 
 ## 1️⃣ RESERVAS
 
-<img src=https://i.ibb.co/1rjQYdC/imagen-2023-12-22-150740531.png
+<img src="https://i.ibb.co/1rjQYdC/imagen-2023-12-22-150740531.png" width="75%;" />
 
 ## 1️⃣ favoritos
 
-<img src=https://i.ibb.co/mJ5k4k7/imagen-2023-12-22-150856637.png
+<img src="https://i.ibb.co/mJ5k4k7/imagen-2023-12-22-150856637.png" width="75%;" />
 
 ## 1️⃣ perfiles
 
-<img src=https://i.ibb.co/gZJhhnJ/imagen-2023-12-22-151026964.png
+<img src="https://i.ibb.co/gZJhhnJ/imagen-2023-12-22-151026964.png" width="75%;" />
 
 ## :pineapple: Participantes
 
