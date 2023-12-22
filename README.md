@@ -1,7 +1,7 @@
 # Filmoteca imdb
 ## 1️⃣ lOGIN
 
-<img src="https://i.ibb.co/1KKn2rR/imagen-2023-12-22-150258037.png" width="100px;" />
+<img src="https://i.ibb.co/1KKn2rR/imagen-2023-12-22-150258037.png" width="80%;" />
 
 ## 1️⃣ REGISTER
 
