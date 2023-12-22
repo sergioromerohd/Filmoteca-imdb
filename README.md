@@ -1,23 +1,23 @@
 # Filmoteca imdb
 ## 1️⃣ lOGIN
 
-https://i.ibb.co/1KKn2rR/imagen-2023-12-22-150258037.png
+<img src=https://i.ibb.co/1KKn2rR/imagen-2023-12-22-150258037.png size=115" width="100px;" />
 
 ## 1️⃣ REGISTER
 
-https://i.ibb.co/1zXK4GW/imagen-2023-12-22-150544864.png
+<img src=https://i.ibb.co/1zXK4GW/imagen-2023-12-22-150544864.png 
 
 ## 1️⃣ RESERVAS
 
-https://i.ibb.co/1rjQYdC/imagen-2023-12-22-150740531.png
+<img src=https://i.ibb.co/1rjQYdC/imagen-2023-12-22-150740531.png
 
 ## 1️⃣ favoritos
 
-https://i.ibb.co/mJ5k4k7/imagen-2023-12-22-150856637.png
+<img src=https://i.ibb.co/mJ5k4k7/imagen-2023-12-22-150856637.png
 
 ## 1️⃣ perfiles
 
-https://i.ibb.co/gZJhhnJ/imagen-2023-12-22-151026964.png
+<img src=https://i.ibb.co/gZJhhnJ/imagen-2023-12-22-151026964.png
 
 ## :pineapple: Participantes
 
